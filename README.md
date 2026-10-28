@@ -17,15 +17,10 @@ Use **Open Folder** to view downloads and **Clear** to empty the input.
 ## Features
 
 - Animated emojis save as **GIF**; static emojis save as **WebP**.
-- Requests `size=1280` regardless of the size in pasted links. Actual dimensions depend on what Discord serves.
+- Downloads emojis at full size.
 - Accepts Discord CDN links, numeric emoji IDs, and raw custom emoji codes.
-- Skips duplicate IDs within a batch and emojis already present in the download folder, including filenames from older versions.
-- Dark compact interface with rounded controls, line numbers, and smooth vertical scrolling.
-- Preserves pasted line breaks and blank lines. Long links do not wrap, and horizontal scrolling is disabled.
-- Fixed 461 × 188 client area at 100% display scaling; Windows display scaling still applies.
+- Skips duplicate IDs within a batch and emojis already present in the download folder.
 - No installation, login, token, registry changes, or additional files needed to run.
-
-The icon is embedded in the EXE. Move the EXE and its download folder together to keep your saved emojis.
 
 ## Requirements
 
