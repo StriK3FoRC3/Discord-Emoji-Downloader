@@ -1,0 +1,10 @@
+# Local builds and downloaded emojis
+/build/
+**/Downloaded-Emojis/
+
+# Local diagnostics and temporary files
+/preview.png
+/line-numbers-preview.png
+/*verification.txt
+*.tmp
+/release/
