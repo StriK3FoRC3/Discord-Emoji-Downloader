@@ -1,7 +1,7 @@
 # Discord Emoji Downloader
 
 <img src="assets/app.png" width="96" alt="Discord Emoji Downloader icon">
-<img src="screenshot1.png" width="215" alt="Discord Emoji Downloader icon">
+<img src="screenshot1.png" width="463" alt="Discord Emoji Downloader icon">
 
 
 A compact, portable Windows app for saving Discord custom emojis from links or emoji IDs.
